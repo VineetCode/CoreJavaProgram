@@ -1,0 +1,12 @@
+3
+
+This page http://www.furkanzumrut.com/open-source-project-using-spring-hibernate-techologies talks about a few open source projects which use Spring and Hibernate.
+
+For example:
+
+Broadleaf Commerce
+ZKSample2
+Agile Express
+Life Ray
+
+https://stackoverflow.com/questions/35243845/please-give-me-the-real-world-project-with-spring-hibernate

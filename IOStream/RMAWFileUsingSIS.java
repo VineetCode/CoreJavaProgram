@@ -33,14 +33,5 @@ public class RMAWFileUsingSIS{
         while((data=sis.read())!=-1){
             fos.write(data);
         }//end of while loop
-
-        fis1.close();
-        fis2.close();
-        fis3.close();
-        fis4.close();
-        fis5.close();
-
-        fos.close();
-
     }//end of main
 }//end of class
