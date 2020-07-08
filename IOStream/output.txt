@@ -1,0 +1,2 @@
+Data after setOut() method
+Data after setErr() method

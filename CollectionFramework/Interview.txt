@@ -1,0 +1,8 @@
+1. What is the use of this Collection.?
+2. What is the implemented data Struture ?
+3. Default Capacity,increment Capacity and Load factor?
+4. What types of elements are allowed?
+5. Is null allowed, how many?
+6. What is the storing order?
+7. What is the retrieving order?
+     `
